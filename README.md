@@ -12,8 +12,7 @@ Access the live version of Gadget Heaven here: [Gadget Heaven Live](https://extr
 
 ## 📄 **Requirement Document**
 
-Detailed project requirements can be found here: [Requirement Document Link](#)  
-*(Replace `#` with the link to your requirement document, e.g., Google Drive or GitHub link)*
+Detailed project requirements can be found here: [Requirement Document Link](https://github.com/sujoy-dam/gadget-heaver/blob/main/Batch-10_Assignment-08-.pdf)
 
 ---
 
@@ -54,4 +53,3 @@ This project demonstrates the use of key React concepts:
 - **Hosting**: *(Netlify and GitHub Pages)*
 
 ---
-
