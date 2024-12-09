@@ -11,6 +11,7 @@ import ErrorPage2 from "../components/ErrorPage2";
 import Details from "../components/Details";
 import ReadList from "../components/ReadList";
 import WishLIst from "../components/WishLIst";
+import About from "../Pages/About";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -53,10 +54,10 @@ const router = createBrowserRouter([
         element: <Details></Details>,
         loader: () => fetch('../gadget.json')
       },
-      // {
-      //   path: "/cart",
-      //   element: <ReadList></ReadList>,
-      // },
+      {
+        path: "/about",
+        element:<About></About>
+      }
       // {
       //   path: "/wish-list",
       //   element: <WishLIst></WishLIst>

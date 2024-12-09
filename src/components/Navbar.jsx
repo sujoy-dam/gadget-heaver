@@ -16,6 +16,7 @@ const Navbar = () => {
         <li><NavLink to="/" className={`${location.pathname === "/" || location.pathname.includes('/category') ? "text-white" : "text-gray-900"}`}>Home</NavLink></li>
         <li><NavLink to="/Statistics" className={`${location.pathname === "/" || location.pathname.includes('/category') ? "text-white" : "text-gray-900"}`}>Statistics</NavLink></li>
         <li><NavLink to="/dashboard" className={`${location.pathname === "/" || location.pathname.includes('/category') ? "text-white" : "text-gray-900"}`}>Dashboard</NavLink></li>
+        <li><NavLink to="/about" className={`${location.pathname === "/" || location.pathname.includes('/category') ? "text-white" : "text-gray-900"}`}>About Us</NavLink></li>
     </>
     return (
         <div className={`navbar max-w-7xl px-20 py-5 mx-auto backdrop-blur-3xl text-violet-400 font-bold sticky top-0 z-10 rounded-xl ${location.pathname === "/" || location.pathname.includes('/category') ? "bg-[#9538E2] " : "bg-transparent"}`}>
