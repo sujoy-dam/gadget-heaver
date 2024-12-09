@@ -20,7 +20,7 @@ const Dashboard = () => {
     return (
         <div className='space-y-4'>
             <Helmet>
-                <title>Gadget Heaven || Dashboard</title>
+                <title>Gadget Heaven | Dashboard</title>
             </Helmet>
             <div className='bg-[#9538E2] h-96 pt-20 text-white flex flex-col items-center'>
                 <h1 className='text-5xl font-bold text-white mb-5 text-center'>Dashboard</h1>
