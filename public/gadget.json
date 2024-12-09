@@ -1,0 +1,162 @@
+[
+  {
+    "product_id": "P1001",
+    "product_title": "Apple MacBook Air 13-inch",
+    "product_image": "https://i.ibb.co.com/H4L8LSg/1.jpg",
+    "category": "MacBook",
+    "price": 999.99,
+    "description": "The Apple MacBook Air 13-inch is a lightweight laptop with the M1 chip for powerful performance.",
+    "specification": [
+      "M1 Chip",
+      "8GB RAM",
+      "256GB SSD",
+      "Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P1002",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/V2PG6kn/2.jpg",
+    "category": "Phones",
+    "price": 799.99,
+    "description": "The Samsung Galaxy S23 features a 6.1-inch display, Snapdragon processor, and long battery life.",
+    "specification": [
+      "6.1-inch Display",
+      "128GB Storage",
+      "50MP Camera",
+      "5000mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1003",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/ZLbJ83T/3.jpg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "The Apple Watch Series 8 offers advanced health tracking and fitness features.",
+    "specification": [
+      "Blood Oxygen Sensor",
+      "ECG App",
+      "GPS",
+      "Water Resistant"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P1004",
+    "product_title": "HP Pavilion 15",
+    "product_image": "https://i.ibb.co.com/YBszSkC/4.jpg",
+    "category": "Laptop",
+    "price": 749.99,
+    "description": "The HP Pavilion 15 is a powerful laptop with Intel i5 processor and 256GB SSD.",
+    "specification": [
+      "Intel i5",
+      "8GB RAM",
+      "256GB SSD",
+      "15.6-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P1005",
+    "product_title": "Xiaomi Mi Band 7",
+    "product_image": "https://i.ibb.co.com/PWTgNL3/5.jpg",
+    "category": "Smart Watches",
+    "price": 59.99,
+    "description": "The Xiaomi Mi Band 7 is a budget-friendly fitness tracker with heart rate monitoring.",
+    "specification": [
+      "1.62-inch Display",
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "5ATM Water Resistance"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P1006",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/5RmcD9g/6.jpg",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "The Dell XPS 13 is a premium laptop with a 13.4-inch InfinityEdge display and Intel i7 processor.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.4-inch FHD+ Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1007",
+    "product_title": "Samsung Galaxy Watch5",
+    "product_image": "https://i.ibb.co.com/cw2d6T0/7.webp",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "The Samsung Galaxy Watch5 provides advanced health and fitness tracking with a sleek design.",
+    "specification": [
+      "Body Composition Analysis",
+      "GPS",
+      "Heart Rate Monitor",
+      "Water Resistant"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P1008",
+    "product_title": "Apple iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/Br9W717/8.jpg",
+    "category": "Phones",
+    "price": 1099.99,
+    "description": "The iPhone 14 Pro offers a powerful A16 Bionic chip and a 48MP camera for pro-grade photography.",
+    "specification": [
+      "A16 Bionic Chip",
+      "48MP Camera",
+      "6.1-inch Display",
+      "5G Connectivity"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P1009",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/VT31PVK/9.jpg",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "The Lenovo ThinkPad X1 Carbon is a lightweight and durable laptop with robust security features.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P1010",
+    "product_title": "Huawei MateBook X Pro",
+    "product_image": "https://i.ibb.co.com/mtfLfqM/10.jpg",
+    "category": "Laptop",
+    "price": 1249.99,
+    "description": "The Huawei MateBook X Pro offers an ultra-slim design with a stunning 3K touchscreen display.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.9-inch 3K Touchscreen"
+    ],
+    "availability": false,
+    "rating": 4.4
+  }
+]
